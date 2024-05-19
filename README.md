@@ -120,4 +120,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-If you have any questions, feel free to open an issue or contact me at [your-email@example.com].
+If you have any questions, feel free to open an issue or contact me at [dilmithseniru@gmail.com].
